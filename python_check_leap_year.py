@@ -12,7 +12,7 @@
           
           This means that in the Gregorian calendar, the years 2000 and 2400 are leap years, while 1800, 1900, 2100, 2200, 2300 and 2500 are NOT leap years.
 
-          Task: You are given the year, and you have to write a function to check if the year is leap or not. Note that you have to complete the function and remaining code is given as template.
+          You are given the year, and you have to write a function to check if the year is leap or not. Note that you have to complete the function and remaining code is given as template.
     
     Sample Input 0: 
                     1990

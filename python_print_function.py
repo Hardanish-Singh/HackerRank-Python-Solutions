@@ -7,9 +7,7 @@
     Sameple Input:
                     3
     Same Output:
-                    1
-                    2
-                    3
+                    123
 """
 number = int(input().strip())
 

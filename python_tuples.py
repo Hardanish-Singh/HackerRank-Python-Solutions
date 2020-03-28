@@ -6,4 +6,4 @@
 """
 N = int(input())
 line = input().split()
-print(tuple(list(map(int, line))))
+print(hash(tuple(list(map(float, line)))))

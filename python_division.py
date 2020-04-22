@@ -2,7 +2,8 @@
         PYTHON DIVISION
     URL: https://www.hackerrank.com/challenges/python-division/problem
 
-    Task: Read two integers and print two lines. The first line should contain integer division, a//b, The second line should contain float division, a/b
+    Task: Read two integers and print two lines. The first line should contain integer division, a//b, 
+    The second line should contain float division, a/b
 
     Sample Input: 
                     4
